@@ -1,4 +1,4 @@
-# amazonClonewebpage-with-help-of-html-and-css-
+# amazonClonewebpage
 # Amazon Clone
 
 This project is a front-end clone of the Amazon homepage built using HTML and CSS. The goal of the project was to recreate the layout, styling, and user interface of Amazon while practicing modern web development concepts such as Flexbox, responsive design principles, navigation bars, product cards, hero sections, and structured page layouts.
